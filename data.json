@@ -1,0 +1,168 @@
+{
+  "type": "CONTINUE_READING",
+  "data": {
+    "displayTitle": "",
+    "pageUrl": "",
+    "list": [
+      {
+        "id": 6755373528609108,
+        "type": "PRATILIPI",
+        "contentType": "IMAGE",
+        "attributes": {
+          "title": "২৫ টি লাশ -9",
+          "seriesId": 286141,
+          "titleEn": null,
+          "displayTitle": "২৫ টি লাশ -9",
+          "coverImageUrl": "https://static-assets.pratilipi.com/pratilipi/cover?pratilipiId=6755373528609108&version=0a2d424d-a219-4e24-9c91-9de15bfb524f",
+          "pageUrl": "/comic/২৫-টি-লাশ-9-qjs6cvszqhil",
+          "pageUrlEn": "/comic/qjs6cvszqhil",
+          "slug": "/comic/২৫-টি-লাশ-9-qjs6cvszqhil",
+          "contentType": "IMAGE",
+          "type": "STORY",
+          "readingTime": 990,
+          "createdAt": 1630347986000,
+          "updatedAt": 1630413305000,
+          "publishedAt": 1630413305000,
+          "pratilipiId": 6755373528609108,
+          "language": "BENGALI",
+          "category": {
+            "system": [],
+            "suggested": []
+          },
+          "author": {
+            "authorId": 6800000023996022
+          },
+          "series": {
+            "seriesId": 286141,
+            "title": "২৫ টি লাশ",
+            "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=286141&version=28d0fd2c-07ff-43af-9aa4-598818baaf7a",
+            "subscription": {
+              "subscribers": 2403,
+              "isSubscribed": true
+            }
+          }
+        }
+      },
+      {
+        "id": 6755373528652926,
+        "type": "PRATILIPI",
+        "contentType": "IMAGE",
+        "attributes": {
+          "title": "सदियों का इंतज़ार - एपिसोड 14",
+          "seriesId": 311169,
+          "titleEn": "Sadiyon ka intezar- episode 14",
+          "displayTitle": "सदियों का इंतज़ार - एपिसोड 14",
+          "summary": "सोलह साल की श्वेता को राजगढ़ किले में जाने के बाद रोज़ एक ही सपना आता है, कोई उसे राजकुमारी रत्ना के नाम से पुकार रहा है। कौन है वो आदमी और आखिर क्या सम्बंध है श्वेता का रत्ना से? जानने के लिए पढ़िए ये अनोखी प्रेम कहानी 'सदियों का इंतज़ार'!",
+          "coverImageUrl": "https://static-assets.pratilipi.com/pratilipi/cover?pratilipiId=6755373528652926&version=8bf26885-9434-4f9f-b0cd-c8bd61bb30f2",
+          "pageUrl": "/comic/सदियों-का-इंतज़ार-एपिसोड-14-wjbwpqlcgd0y",
+          "pageUrlEn": "/comic/sadiyon-ka-intezar-episode-14-wjbwpqlcgd0y",
+          "slug": "/comic/सदियों-का-इंतज़ार-एपिसोड-14-wjbwpqlcgd0y",
+          "contentType": "IMAGE",
+          "type": "STORY",
+          "readingTime": 1710,
+          "createdAt": 1630640405000,
+          "updatedAt": 1631284476000,
+          "publishedAt": 1631284476000,
+          "pratilipiId": 6755373528652926,
+          "language": "HINDI",
+          "category": {
+            "system": [],
+            "suggested": []
+          },
+          "author": {
+            "authorId": 6800000016388954
+          },
+          "series": {
+            "seriesId": 311169,
+            "title": "सदियों का इंतज़ार",
+            "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=311169&version=4f2b9cef-6784-44df-a5cb-bcc154d9a641",
+            "subscription": {
+              "subscribers": 53760,
+              "isSubscribed": true
+            }
+          }
+        }
+      },
+      {
+        "id": 6755373528557035,
+        "type": "PRATILIPI",
+        "contentType": "IMAGE",
+        "attributes": {
+          "title": "फसल - एपिसोड 16",
+          "seriesId": 306693,
+          "titleEn": "Fasal- Episode 16",
+          "displayTitle": "फसल - एपिसोड 16",
+          "summary": "पहाड़ियों पे बसा हुआ एक गाँव खेंदा के जंगलों में रहता हैं एक अभूतपूर्व शक्तिशाली जीव, जिसे गाँव वाले मानते हैं अपना फसल का देवता। लेकिन इस देवता का आक्रोश इतना क्रूर है कि आज तक कोई उससे मिलने के बाद वापस गाँव नहीं लौट पाया। आखिर क्या है इस रहस्यमयी जीव की हकीकत? जानने के लिए पढिया हॉरर कॉमिक्स 'फसल'!",
+          "coverImageUrl": "https://static-assets.pratilipi.com/pratilipi/cover?pratilipiId=6755373528557035&version=b1790338-24d3-473a-8b3e-4c825e553590",
+          "pageUrl": "/comic/फसल-एपिसोड-16-msuk3oad8j5b",
+          "pageUrlEn": "/comic/fasal-episode-16-msuk3oad8j5b",
+          "slug": "/comic/फसल-एपिसोड-16-msuk3oad8j5b",
+          "contentType": "IMAGE",
+          "type": "STORY",
+          "readingTime": 2040,
+          "createdAt": 1630035606000,
+          "updatedAt": 1630679676000,
+          "publishedAt": 1630679676000,
+          "pratilipiId": 6755373528557035,
+          "language": "HINDI",
+          "category": {
+            "system": [],
+            "suggested": []
+          },
+          "author": {
+            "authorId": 6800000016388954
+          },
+          "series": {
+            "seriesId": 306693,
+            "title": "फसल",
+            "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=306693&version=4a271a9f-56d6-4d99-8f02-30d931d31e7d",
+            "subscription": {
+              "subscribers": 46353,
+              "isSubscribed": true
+            }
+          }
+        }
+      },
+      {
+        "id": 6755373528609688,
+        "type": "PRATILIPI",
+        "contentType": "IMAGE",
+        "attributes": {
+          "title": "वो कौन थी - एपिसोड  33",
+          "seriesId": 235986,
+          "titleEn": "Wo kaun thi - Episode 33",
+          "displayTitle": "वो कौन थी - एपिसोड  33",
+          "coverImageUrl": "https://static-assets.pratilipi.com/pratilipi/cover?pratilipiId=6755373528609688&version=6dd6bf8d-e09a-403e-a18e-1e85960977b9",
+          "pageUrl": "/comic/वो-कौन-थी-एपिसोड-33-zhomujylurkc",
+          "pageUrlEn": "/comic/wo-kaun-thi-episode-33-zhomujylurkc",
+          "slug": "/comic/वो-कौन-थी-एपिसोड-33-zhomujylurkc",
+          "contentType": "IMAGE",
+          "type": "STORY",
+          "readingTime": 1950,
+          "createdAt": 1630351158000,
+          "updatedAt": 1631025275000,
+          "publishedAt": 1631025275000,
+          "pratilipiId": 6755373528609688,
+          "language": "HINDI",
+          "category": {
+            "system": [],
+            "suggested": []
+          },
+          "author": {
+            "authorId": 6800000016388954
+          },
+          "series": {
+            "seriesId": 235986,
+            "title": "वो कौन थी?",
+            "coverImageUrl": "https://static-assets.pratilipi.com/series/cover?seriesId=235986&version=71ea78d3-d7f7-4547-ba5b-df1e180274cf",
+            "subscription": {
+              "subscribers": 130872,
+              "isSubscribed": true
+            }
+          }
+        }
+      }
+    ]
+  },
+  "style": "horizontal_name"
+}
